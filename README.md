@@ -1,9 +1,10 @@
 ## Welcome to GitHub Pages
 
-Mode Data	Buka Gratis
+<h1>Mode Data	Buka Gratis</h1>
 Kebijakan Halaman, Grup, dan Acara
-Daftar Isi	
-Ringkasan
+- Daftar Isi	
+- Ringkasan
+
 Memahami Kebijakan Kami
 Ketentuan berikut, beserta Kebijakan Data, Standar Komunitas, dan Ketentuan Layanan, berlaku untuk semua kreator dan administrator Halaman, Grup, dan Acara di Facebook. Anda bertanggung jawab untuk memastikan bahwa Halaman, Grup, atau Acara Anda mematuhi semua undang-undang, peraturan, dan regulasi yang berlaku.
 Kebijakan Umum untuk Halaman, Grup, dan Acara
