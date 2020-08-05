@@ -121,4 +121,4 @@ Acara tidak boleh menciptakan undangan acara melalui cara-cara otomatis.
 Acara harus mengungkapkan segala tindakan atau biaya tambahan yang berhubungan dengan pembelian tiket acara secara jelas dan di muka.
 3. Perubahan Acara yang Menyesatkan
 Perubahan acara tidak boleh menyesatkan atau menimbulkan koneksi yang tidak diinginkan serta tidak boleh mengubah acara secara substansial.
-Pelajari selengkapnya
+[Pelajari selengkapnya](https://m.facebook.com/policies/pages_groups_events/events_specific_policies/misleading_event)
