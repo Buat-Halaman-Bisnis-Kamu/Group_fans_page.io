@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages :+1:
 
 <h1>Mode Data	Buka Gratis</h1>
 Kebijakan Halaman, Grup, dan Acara
