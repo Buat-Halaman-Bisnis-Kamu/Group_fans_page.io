@@ -5,8 +5,8 @@ Kebijakan Halaman, Grup, dan Acara
 - Daftar Isi	
 - Ringkasan
 
-Memahami Kebijakan Kami
-Ketentuan berikut, beserta Kebijakan Data, Standar Komunitas, dan Ketentuan Layanan, berlaku untuk semua kreator dan administrator Halaman, Grup, dan Acara di Facebook. Anda bertanggung jawab untuk memastikan bahwa Halaman, Grup, atau Acara Anda mematuhi semua undang-undang, peraturan, dan regulasi yang berlaku.
+Memahami [Kebijakan Kami
+Ketentuan berikut](https://www.facebook.com/communitystandards), beserta Kebijakan Data, Standar Komunitas, dan Ketentuan Layanan, berlaku untuk semua kreator dan administrator Halaman, Grup, dan Acara di Facebook. Anda bertanggung jawab untuk memastikan bahwa Halaman, Grup, atau Acara Anda mematuhi semua undang-undang, peraturan, dan regulasi yang berlaku.
 Kebijakan Umum untuk Halaman, Grup, dan Acara
 1. Praktik Bisnis yang Dilarang
 Halaman, Grup, dan Acara tidak boleh mempromosikan produk, layanan, skema, atau promo yang menggunakan praktik bisnis yang menipu atau menyesatkan, termasuk praktik bisnis yang bermaksud menipu untuk mendapatkan uang atau informasi pribadi seseorang.
